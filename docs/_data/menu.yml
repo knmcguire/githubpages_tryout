@@ -1,0 +1,8 @@
+- page_id: home
+- page_id: blog
+- title: Products
+ subs:
+ - {page_id: product-crazyflie-2-1}
+ - {page_id: product-crazyradio-pa}
+ - {page_id: product-led-ring-deck}
+ - {page_id: product-qi-1-2-charger)
