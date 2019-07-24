@@ -1,6 +1,7 @@
 ---
 title: This is my title
 layout: post
+page_id: home
 ---
 
 testtest
