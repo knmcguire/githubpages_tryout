@@ -7,6 +7,6 @@ page_id: home
 testtest
   {% for item in site.data.menu %}
     
-     {{item.page_id}}<br>
+ <div>{{item.page_id}}</div>
 
   {% endfor %}
